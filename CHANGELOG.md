@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.2.2
+
+- Upgrades addon-base to ...
+
 ## 0.2.1
 
 - Upgrades addon-base to 10.0.2
